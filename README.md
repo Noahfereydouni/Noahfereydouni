@@ -1,6 +1,6 @@
 # Noah Fereydouni
 
-PhD | Single-cell genomics, spatial biology & multiomics| Independent research in computational neurodegeneration
+PhD | Single-cell genomics, spatial biology & multiomics | Independent research in computational neurodegeneration
 
 Application scientist working at the intersection of single-cell genomics and applied computational biology. Fifteen years across academia and biotech, most recently as an Application Manager supporting single-cell and spatial transcriptomics workflows, with postdoctoral work at Karolinska Institutet leading single-cell RNA-seq and spatial transcriptomics projects.
 
