@@ -39,4 +39,5 @@ single-cell data.
 
 ---
 
-📍 Stockholm · 📧 Noah.fereydouni@gmail.com
+📍 Open to relocation 
+📧 Noah.fereydouni@gmail.com
